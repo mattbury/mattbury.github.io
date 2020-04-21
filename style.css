@@ -6,7 +6,12 @@ font-family: "Times New Roman", Times, serif;
 background-color: 666666;
 }
 
-Div{
-    border: 1px solid black
-    Background-color pink
+div{
+    border: 1px solid black;
+    background-color: brown;
+}
+
+div{
+    border: 1px solid black;
+    background-color: white;
 }
