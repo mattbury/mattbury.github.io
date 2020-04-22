@@ -14,5 +14,6 @@ div{
 }
 
 img{
-    box-shadow: 5px -5px 5px 5px grey;
+    box-shadow: 7px -7px 6px 6px grey;
+    border-radius: 25px;
 }
