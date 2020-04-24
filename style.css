@@ -12,7 +12,7 @@ h2 {
 body {
 font-family: "Times New Roman", Times, serif;
 background-color: 666666;
-text-align: center;}
+}
 
 div{
     border: 1px solid black;
@@ -24,4 +24,5 @@ div{
 img{
     box-shadow: 7px -7px 6px 6px grey;
     border-radius: 25px;
+    text-align: center;}
 }
