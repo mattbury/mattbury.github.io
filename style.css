@@ -1,17 +1,21 @@
-h1{
-    border: 1px solid black;
-    background-color: white;
-    border-radius: 10px;
-    border-width: 3px;
+body {
+font-family: "Times New Roman", Times, serif;
+background-color: 666666;
+Padding: 8px;
+Padding-left: 15px;
 }
 
 
 h2 {
     color: blue;
+    Padding: 10px;
 }
-body {
-font-family: "Times New Roman", Times, serif;
-background-color: 666666;
+
+h1 {
+    color: red;
+    align-content: center;
+    text-align: center;
+    Padding: 10px
 }
 
 div{
@@ -19,10 +23,16 @@ div{
     background-color: white;
     border-radius: 10px;
     border-width: 3px;
+    padding: 15px;
+    Margin: 15px;
 }
 
+
 img{
-    box-shadow: 7px -7px 6px 6px grey;
+    box-shadow: 7px 7px 6px 6px grey;
     border-radius: 25px;
-    text-align: center;}
-}
+    text-align: center;
+    Margin-bottom: 50px;
+    padding: 0px;
+    }
+
