@@ -37,3 +37,12 @@ img{
     padding: 0px;
     }
 
+#coolperson{
+    border-radius: 0;
+    border: 10px solid black;  
+    color: red;
+}
+
+#colors{
+    background-color: Pink;
+}
