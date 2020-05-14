@@ -15,7 +15,6 @@ h1 {
     color: whitesmoke;
     align-content: center;
     text-align: center;
-    Padding: 10px
 }
 
 div{
@@ -25,7 +24,7 @@ div{
     border-width: 3px;
     padding: 15px;
     Margin: 15px;
-    margin-right: 200px;
+    margin-right: 20px;
 }
 
 
@@ -39,10 +38,18 @@ img{
 
 #coolperson{
     border-radius: 0;
-    border: 10px solid black;  
+    border: 2px solid black;  
     color: red;
 }
 
 #colors{
     background-color: Pink;
+}
+
+.smalltext{
+    color: red;
+}
+
+.list{
+    color: blue;
 }
