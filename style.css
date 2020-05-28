@@ -3,12 +3,15 @@ font-family: "Times New Roman", Times, serif;
 background-color: lightgray;
 Padding: 8px;
 Padding-left: 15px;
+Background-color: gray;
 }
 
 
 h2 {
     color: blue;
-    Padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
 }
 
 h1 {
