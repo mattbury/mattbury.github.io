@@ -1,10 +1,3 @@
-body {
-font-family: "Times New Roman", Times, serif;
-background-color: lightgray;
-Padding: 8px;
-Padding-left: 15px;
-Background-color: gray;
-}
 
 
 h2 {
@@ -50,9 +43,18 @@ img{
 }
 
 .smalltext{
-    color: red;
+    color: white;
 }
 
 .list{
     color: blue;
+}
+
+body {
+font-family: "Times New Roman", Times, serif;
+background-color: lightgray;
+Padding: 8px;
+Padding-left: 15px;
+Background-color: gray;
+text-color:white;
 }
